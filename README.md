@@ -1,33 +1,74 @@
 # Hi there, I'm Shiva Sai Sherla! 👋
 
-### 🤖 AI Engineer | Multi-Agent Systems & NLP Specialist
-I am a Computer Science student at NRECM, passionate about building intelligent AI agents and solving real-world problems in agriculture and healthcare.
+### 🔬 AI Researcher | Agentic AI & NLP Engineer
+*Matches technical depth with a precise direction toward using AI for social good.*
 
-- 🔭 I’m currently working on **Multi-Agent Systems (LangGraph) & Precision Agriculture AI**
-- 🌱 I’m currently learning **FastAPI & Advanced RAG Architectures**
-- 💬 Ask me about **Python, LangChain, and AI Agents**
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/shivasaisherla77807348)
+I am an AI Engineer and Researcher driven by the philosophy of **observing Nature to find automation opportunities**. My work focuses on **Multi-Agent Systems**, **Autonomous Control Platforms**, and **LLM reasoning**. I aim to operate like a vector with strong magnitude—combining deep technical skills with a clear vision for solving real-world ambiguity.
+
+- 🔭 I’m currently building **Autonomous Agents for Precision Agriculture (MCP-AI)**.
+- 💡 I specialize in **LangChain, RAG Architectures, and Computer Vision**.
+- 🏆 **LeetCode Guardian** (Rating: **2,035** | Top 1%).
+- 📫 Reach me at: [shivasaisherla9@gmail.com](mailto:shivasaisherla9@gmail.com) | [LinkedIn](https://www.linkedin.com/in/shivasai) | [Portfolio](https://shivasai-558271669290.asia-south2.run.app/)
 
 ---
 
-### 🛠️ Tech Stack
+### 📚 Research & Publications
+I have authored peer-reviewed papers focusing on AI for social impact and cybersecurity.
+
+#### 🏆 [Best Paper Award] MCP-AI: Multi-Agent Control Platform
+*Published in ICMDRI 2025*
+> A novel architecture integrating **IoT sensor networks** with **Autonomous AI Agents** for crop management.
+> * **Core Tech:** Swarm Intelligence, RAG-based LLMs, MQTT protocols.
+> * **Impact:** Deployed agents for Water, Soil, and Weather analysis, achieving a **27% reduction in water usage** and reducing manual farm labor by **40%**.
+
+#### 🛡️ Phish Catcher: Client-Side Defense Against Web Spoofing
+*Published in ICMDRI 2025*
+> A privacy-preserving, client-side browser extension for real-time phishing detection.
+> * **Core Tech:** Hybrid ML model (Random Forest + CNN for visual analysis).
+> * **Impact:** Achieved **98.5% detection accuracy** using lexical and structural feature extraction, outperforming traditional heuristic detectors by 30%.
+
+---
+
+### 🛠️ Tech Stack & Arsenal
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Vertex_AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### ✍️ Latest from my Blog
+*I write about the intersection of AI, Nature, and Automation.*
+
+| Topic | Description | Link |
+| :--- | :--- | :--- |
+| **Agentic AI** | How autonomous agents are replacing static automation. | [Read Article](YOUR_LINK_HERE) |
+| **RAG Systems** | Building context-aware chatbots for specialized domains. | [Read Article](YOUR_LINK_HERE) |
+| **Nature & AI** | Biomimicry: What algorithms can learn from biological systems. | [Read Article](YOUR_LINK_HERE) |
+---
+
+### 📊 Coding Profile
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sherlashivasai&show_icons=true&theme=tokyonight" height="180" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sherlashivasai&layout=compact&theme=tokyonight" height="180" alt="languages" />
+  <a href="https://leetcode.com/u/shiva_sai-09/">
+    <img src="https://img.shields.io/badge/LeetCode-Guardian-D4AF37?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <img src="https://img.shields.io/badge/Rating-2035-orange?style=for-the-badge" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sherlashivasai&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sherlashivasai&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sherlashivasai&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sherlashivasai&theme=tokyo-night&hide_border=true" />
 </div>
