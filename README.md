@@ -53,9 +53,8 @@ I have authored peer-reviewed papers focusing on AI for social impact and cybers
 
 | Topic | Description | Link |
 | :--- | :--- | :--- |
-| **Agentic AI** | How autonomous agents are replacing static automation. | [Read Article](YOUR_LINK_HERE) |
-| **RAG Systems** | Building context-aware chatbots for specialized domains. | [Read Article](YOUR_LINK_HERE) |
-| **Nature & AI** | Biomimicry: What algorithms can learn from biological systems. | [Read Article](YOUR_LINK_HERE) |
+| **LLM to AGI** | Bridging the Experience Gap: Why LLMs Need a "Trainer" to Reach AGI. | [Read Article](https://shivasai-558271669290.asia-south2.run.app/blog/bridging-the-experience-gap-agi) |
+| **Humans & AI** | The Direct Link: How BCI Turns Thoughts into Action. | [Read Article](https://shivasai-558271669290.asia-south2.run.app/blog/the-direct-link-bci) |
 ---
 
 ### 📊 Coding Profile
