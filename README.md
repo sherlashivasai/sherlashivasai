@@ -5,7 +5,7 @@
 
 I am an AI Engineer and Researcher driven by the philosophy of **observing Nature to find automation opportunities**. My work focuses on **Multi-Agent Systems**, **Autonomous Control Platforms**, and **LLM reasoning**. I aim to operate like a vector with strong magnitude—combining deep technical skills with a clear vision for solving real-world ambiguity.
 
-- 🔭 I’m currently building **Autonomous Agents for Precision Agriculture (MCP-AI)**.
+- 🔭 I’m currently building **Autonomous Agents for Social Good**.
 - 💡 I specialize in **LangChain, RAG Architectures, and Computer Vision**.
 - 🏆 **LeetCode Guardian** (Rating: **2,035** | Top 1%).
 - 📫 Reach me at: [shivasaisherla9@gmail.com](mailto:shivasaisherla9@gmail.com) | [LinkedIn](https://www.linkedin.com/in/shivasai) | [Portfolio](https://shivasai-558271669290.asia-south2.run.app/)
